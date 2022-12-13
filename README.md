@@ -16,7 +16,24 @@ CS5424-Final Project
     - Project Reflection 12/14
  
   - __Parts Needed__:
+    - ATMEGA2560-16AU x1
+    - Raspberry Pi Model 3B+ x1
+    - DC 3V-5V Water Level Sensor
+    - Encoder/DC Motor Driver x2
+    - IR Proximity Sensor x2
+    - Impact Switch x2
+    - Lithium AA Battery (1.5V) x6
+    - MakeBlock mbot mega Chassis x1
+    - Custom 10-pin Wiring Harness x1
+    - RGB LED x2
+    - HD USB Webcamera x1
+    
   - __Fall-back Plan__:
+    - Plan 1
+      If we could not make the bud move
+    - Plan 2
+    - Plan 3
+    - 
 
 - Functioning project: The finished project should be a device, system, interface, etc. that people can interact with.
 
