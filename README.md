@@ -17,8 +17,8 @@ CS5424-Final Project
  
   - __Parts Needed__:
       | Name| Description |
-      | Picture | --- |
-      | git status | List all new or modified files |
+      |  --- | --- |
+      | Picture | List all new or modified files |
       | git diff | Show file differences that haven't been staged |
     - ATMEGA2560-16AU x1
     - Raspberry Pi Model 3B+ x1
