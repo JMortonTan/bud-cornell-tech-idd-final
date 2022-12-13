@@ -67,7 +67,8 @@ CS5424-Final Project
     We wish we had known this a bit earlier, and perhaps would have directly purchased a kit without wasting time believing it was possible to do on our own.  This way we could quickly focus on developing features and interactions, which was the most important aspect of the project.
   - Peggy Pei:
 
-- Group work distribution questionnaire
+- Group work distribution questionnaire:
+
   Jon:
   - Sketch Ideation
   - Coding Logic
