@@ -68,3 +68,16 @@ CS5424-Final Project
   - Peggy Pei:
 
 - Group work distribution questionnaire
+  Jon:
+  - Sketch Ideation
+  - Coding Logic
+  - Hardware Selection
+  - Motorization coding
+  - Arduino and Pi Integration
+  
+  Peggy (Yiru):
+  - Wiring Harness Soldering
+  - Device Design
+  - Laser Cut
+  - Hardware Assembly
+  - CV Programming and Implementation
