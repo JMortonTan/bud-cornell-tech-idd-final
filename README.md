@@ -29,11 +29,9 @@ CS5424-Final Project
     - HD USB Webcamera x1
     
   - __Fall-back Plan__:
-    - Plan 1
-      If we could not make the bud move
-    - Plan 2
-    - Plan 3
-    - 
+    - Plan 1: Paper model of Roosevelt island/Cornell Tech with smart features (weather, transportation, night lights etc.)
+    - Plan 2: Reduce the features in our bud
+
 
 - Functioning project: The finished project should be a device, system, interface, etc. that people can interact with.
 
