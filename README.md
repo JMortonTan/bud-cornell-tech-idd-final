@@ -49,6 +49,7 @@ CS5424-Final Project
 
 - Reflections on process (What have you learned or wish you knew at the start?)
   - Jonathan Tan:
+    
     In this project we started with a unique idea, to combine the actions of raising plants, and raising pets.
 
     This was unique because it was a very open ended proposition.  What kind of interactions should, would and are required in order to properly raise a plant?
