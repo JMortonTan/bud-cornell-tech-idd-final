@@ -16,12 +16,21 @@ CS5424-Final Project
     - Project Reflection 12/14
  
   - __Parts Needed__:
-      | Name| Description |
-      |  --- | --- |
-      | Picture | List all new or modified files |
-      | git diff | Show file differences that haven't been staged |
-    - ATMEGA2560-16AU x1
-    - Raspberry Pi Model 3B+ x1
+      | Name and usage | Number | Picture and Source |
+      |  --- | --- | --- |
+      | ATMEGA2560-16AU | 1 | List all new or modified files |
+      | Raspberry Pi Model 3B+ | 1 | Show file differences that haven't been staged |
+      | DC 3V-5V Water Level Sensor | Show file differences that haven't been staged |
+      | Raspberry Pi Model 3B+ x1 | Show file differences that haven't been staged |
+      | Raspberry Pi Model 3B+ x1 | Show file differences that haven't been staged |
+      | Raspberry Pi Model 3B+ x1 | Show file differences that haven't been staged |
+      | Raspberry Pi Model 3B+ x1 | Show file differences that haven't been staged |
+      | Raspberry Pi Model 3B+ x1 | Show file differences that haven't been staged |
+      | Raspberry Pi Model 3B+ x1 | Show file differences that haven't been staged |
+      | Raspberry Pi Model 3B+ x1 | Show file differences that haven't been staged |
+      | Raspberry Pi Model 3B+ x1 | Show file differences that haven't been staged |
+      | Raspberry Pi Model 3B+ x1 | Show file differences that haven't been staged |
+ 
     - DC 3V-5V Water Level Sensor
     - Encoder/DC Motor Driver x2
     - IR Proximity Sensor x2
