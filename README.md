@@ -16,6 +16,10 @@ CS5424-Final Project
     - Project Reflection 12/14
  
   - __Parts Needed__:
+      | Name| Description |
+      | Picture | --- |
+      | git status | List all new or modified files |
+      | git diff | Show file differences that haven't been staged |
     - ATMEGA2560-16AU x1
     - Raspberry Pi Model 3B+ x1
     - DC 3V-5V Water Level Sensor
