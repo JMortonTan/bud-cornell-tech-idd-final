@@ -49,21 +49,21 @@ CS5424-Final Project
 
 - Reflections on process (What have you learned or wish you knew at the start?)
   - Jonathan Tan:
-In this project we started with a unique idea, to combine the actions of raising plants, and raising pets.
+    In this project we started with a unique idea, to combine the actions of raising plants, and raising pets.
 
-This was unique because it was a very open ended proposition.  What kind of interactions should, would and are required in order to properly raise a plant?
+    This was unique because it was a very open ended proposition.  What kind of interactions should, would and are required in order to properly raise a plant?
 
-To quickly get to the point, I really wish I understood more about robotics at the beginning of the project.
+    To quickly get to the point, I really wish I understood more about robotics at the beginning of the project.
 
-We spent a ton of time understanding how to interface Arduino and Raspberry Pi in order to allow Raspberry Pi to handle computing functions such as CV, and Arduino to handle controlling the motors.  We also spent a ton of time learning about robotics kits, power requirements and what kind of chassis we should purchase in order to fulfill basic functions such as mobility rotation, and expandability to add sensors.  Then, it was another journey to research and understand what type of sensors we were interested in using.
+    We spent a ton of time understanding how to interface Arduino and Raspberry Pi in order to allow Raspberry Pi to handle computing functions such as CV, and Arduino to handle controlling the motors.  We also spent a ton of time learning about robotics kits, power requirements and what kind of chassis we should purchase in order to fulfill basic functions such as mobility rotation, and expandability to add sensors.  Then, it was another journey to research and understand what type of sensors we were interested in using.
 
-Only after this was handled, were we able to begin ideating "What kinds of behaviors would a mechanized plant require in order to survive?" "What type of personality would it have or try to mimic?" "What are some typical interactions between a human and a pet?"
+    Only after this was handled, were we able to begin ideating "What kinds of behaviors would a mechanized plant require in order to survive?" "What type of personality would it have or try to mimic?" "What are some typical interactions between a human and a pet?"
 
-Here we were most able to apply the ideation processing, storyboarding, and interactions that we had reviewed in the class.  We really wish we hadn't underestimated the basic knowledge required in robotics, such as calculating voltage and amperage requirements for various kits.  Especially since in the end, we decided to purchase a kit that had a power system predesigned for the chassis.  We also utilized much of the time soldering and creating a wiring harness that allowed the Pi and Arduino to interact with one another.  Although the kit was compatible, it required significant modification in order to physically bridge the two "brains".
+    Here we were most able to apply the ideation processing, storyboarding, and interactions that we had reviewed in the class.  We really wish we hadn't underestimated the basic knowledge required in robotics, such as calculating voltage and amperage requirements for various kits.  Especially since in the end, we decided to purchase a kit that had a power system predesigned for the chassis.  We also utilized much of the time soldering and creating a wiring harness that allowed the Pi and Arduino to interact with one another.  Although the kit was compatible, it required significant modification in order to physically bridge the two "brains".
 
-All in all, we really discovered that robotics is not as simple as a python script to set a motor to move a certain distance.  There are in fact several different types of motors for different types of movement as well (servo etc.).  Even two motors of the same model and type may not perform the same.
+    All in all, we really discovered that robotics is not as simple as a python script to set a motor to move a certain distance.  There are in fact several different types of motors for different types of movement as well (servo etc.).  Even two motors of the same model and type may not perform the same.
 
-We wish we had known this a bit earlier, and perhaps would have directly purchased a kit without wasting time believing it was possible to do on our own.  This way we could quickly focus on developing features and interactions, which was the most important aspect of the project.
+    We wish we had known this a bit earlier, and perhaps would have directly purchased a kit without wasting time believing it was possible to do on our own.  This way we could quickly focus on developing features and interactions, which was the most important aspect of the project.
   - Peggy Pei:
 
 - Group work distribution questionnaire
