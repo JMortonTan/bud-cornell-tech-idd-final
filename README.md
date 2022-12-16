@@ -16,9 +16,9 @@ CS5424-Final Project
     - Project Reflection 12/14
  
   - __Parts Needed__:
-      | Name and usage | Number | Picture and Source |
+      | Name | Number | Pictures |
       |  --- | --- | --- |
-      | ATMEGA2560-16AU | 1 |![This is an image]([https://www.google.com/aclk?sa=l&ai=DChcSEwi35MqMlv77AhUBicgKHQYGA2oYABAFGgJxdQ&sig=AOD64_1eueMW1-EudmDHgYiJ5YalCC-A4Q&adurl&ctype=5&ved=2ahUKEwjRkLyMlv77AhWtwikDHYvjBdEQvhd6BAgBEGE)](https://az343058.vo.msecnd.net/productlargeimages/82d4e04272974b3a9e9d339c377c87f0.jpg)|
+      | ATMEGA2560-16AU | 1 |![This is an image](/Users/peggy/Desktop/bud-cornell-tech-idd-final/Mega2560.jpeg)]|
       | Raspberry Pi Model 3B+ | 1 | Show file differences that haven't been staged |
       | DC 3V-5V Water Level Sensor | Show file differences that haven't been staged |
       | Raspberry Pi Model 3B+ x1 | Show file differences that haven't been staged |
