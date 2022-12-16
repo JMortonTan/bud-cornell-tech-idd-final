@@ -29,9 +29,8 @@ CS5424-Final Project
       | Custom 10-pin Wiring Harness | 1 | ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/Custom%2010-pin%20Wiring%20Harness.jpeg)|
       | RGB LED | 2 |![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/b04889b4c000208db660323e5e8df1ffa59d043f/RGB%20LED.png) |
       | HD USB Webcamera | 1 | ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/HD%20USB%20Webcamera.png) |
-      | Raspberry Pi Model 3B+ x1 | ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/d63b3f7da24ce03e0000dabeccd7ed70caecaaaf/Mega2560.jpeg) |
- 
-    s
+      
+      
   - __Fall-back Plan__:
     - Plan 1: Paper model of Roosevelt island/Cornell Tech with smart features (weather, transportation, night lights etc.)
     - Plan 2: Reduce the features in our bud
