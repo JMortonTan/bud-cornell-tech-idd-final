@@ -18,7 +18,7 @@ CS5424-Final Project
   - __Parts Needed__:
       | Name and usage | Number | Picture and Source |
       |  --- | --- | --- |
-      | ATMEGA2560-16AU | 1 | List all new or modified files |
+      | ATMEGA2560-16AU | 1 |![This is an image](https://www.google.com/aclk?sa=l&ai=DChcSEwi35MqMlv77AhUBicgKHQYGA2oYABAFGgJxdQ&sig=AOD64_1eueMW1-EudmDHgYiJ5YalCC-A4Q&adurl&ctype=5&ved=2ahUKEwjRkLyMlv77AhWtwikDHYvjBdEQvhd6BAgBEGE)|
       | Raspberry Pi Model 3B+ | 1 | Show file differences that haven't been staged |
       | DC 3V-5V Water Level Sensor | Show file differences that haven't been staged |
       | Raspberry Pi Model 3B+ x1 | Show file differences that haven't been staged |
