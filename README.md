@@ -18,28 +18,19 @@ CS5424-Final Project
   - __Parts Needed__:
       | Name | Number | Pictures |
       |  --- | --- | --- |
-      | ATMEGA2560-16AU | 1 |![This is an image](/Users/peggy/Desktop/bud-cornell-tech-idd-final/Mega2560.jpeg)]|
-      | Raspberry Pi Model 3B+ | 1 | Show file differences that haven't been staged |
-      | DC 3V-5V Water Level Sensor | Show file differences that haven't been staged |
-      | Raspberry Pi Model 3B+ x1 | Show file differences that haven't been staged |
-      | Raspberry Pi Model 3B+ x1 | Show file differences that haven't been staged |
-      | Raspberry Pi Model 3B+ x1 | Show file differences that haven't been staged |
-      | Raspberry Pi Model 3B+ x1 | Show file differences that haven't been staged |
-      | Raspberry Pi Model 3B+ x1 | Show file differences that haven't been staged |
-      | Raspberry Pi Model 3B+ x1 | Show file differences that haven't been staged |
-      | Raspberry Pi Model 3B+ x1 | Show file differences that haven't been staged |
-      | Raspberry Pi Model 3B+ x1 | Show file differences that haven't been staged |
-      | Raspberry Pi Model 3B+ x1 | Show file differences that haven't been staged |
+      | ATMEGA2560-16AU | 1 |![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/d63b3f7da24ce03e0000dabeccd7ed70caecaaaf/Mega2560.jpeg)|
+      | Raspberry Pi Model 3B+ | 1 | ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/b04889b4c000208db660323e5e8df1ffa59d043f/Raspberrypi.png) |
+      | DC 3V-5V Water Level Sensor | 1 | ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/d63b3f7da24ce03e0000dabeccd7ed70caecaaaf/Mega2560.jpeg) |
+      | Encoder/DC Motor Driver | 2 | ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/d63b3f7da24ce03e0000dabeccd7ed70caecaaaf/Mega2560.jpeg) |
+      | IR Proximity Sensor | 2 | ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/d63b3f7da24ce03e0000dabeccd7ed70caecaaaf/Mega2560.jpeg) |
+      | Impact Switch | 2 | ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/d63b3f7da24ce03e0000dabeccd7ed70caecaaaf/Mega2560.jpeg)|
+      | Lithium AA Battery (1.5V) | 6 | ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/b04889b4c000208db660323e5e8df1ffa59d043f/battery.png) |
+      | MakeBlock mbot mega Chassis | 1 | ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/d63b3f7da24ce03e0000dabeccd7ed70caecaaaf/Mega2560.jpeg) |
+      | Custom 10-pin Wiring Harness | 1 | ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/d63b3f7da24ce03e0000dabeccd7ed70caecaaaf/Mega2560.jpeg)|
+      | RGB LED | 2 |![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/d63b3f7da24ce03e0000dabeccd7ed70caecaaaf/Mega2560.jpeg) |
+      | HD USB Webcamera | 1 | ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/d63b3f7da24ce03e0000dabeccd7ed70caecaaaf/Mega2560.jpeg) |
+      | Raspberry Pi Model 3B+ x1 | ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/d63b3f7da24ce03e0000dabeccd7ed70caecaaaf/Mega2560.jpeg) |
  
-    - DC 3V-5V Water Level Sensor
-    - Encoder/DC Motor Driver x2
-    - IR Proximity Sensor x2
-    - Impact Switch x2
-    - Lithium AA Battery (1.5V) x6
-    - MakeBlock mbot mega Chassis x1
-    - Custom 10-pin Wiring Harness x1
-    - RGB LED x2
-    - HD USB Webcamera x1
     
   - __Fall-back Plan__:
     - Plan 1: Paper model of Roosevelt island/Cornell Tech with smart features (weather, transportation, night lights etc.)
