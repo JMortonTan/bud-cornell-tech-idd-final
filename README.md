@@ -30,21 +30,35 @@ CS5424-Final Project
       | RGB LED | 2 |![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/b04889b4c000208db660323e5e8df1ffa59d043f/RGB%20LED.png) |
       | HD USB Webcamera | 1 | ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/HD%20USB%20Webcamera.png) |
       
-      
+
   - __Fall-back Plan__:
     - Plan 1: Paper model of Roosevelt island/Cornell Tech with smart features (weather, transportation, night lights etc.)
     - Plan 2: Reduce the features in our bud
 
 
-- Functioning project: The finished project should be a device, system, interface, etc. that people can interact with.
+- __Functioning Project__: 
+
+    The completed project is a robotic plant that functions as a pet and has the following features:
+      - https://youtu.be/gFXpq3ll_io
+    
 
 - Documentation of design process
   - Ideation:
+    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/Impact%20Switch.jpeg)
+    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/Impact%20Switch.jpeg)
     
   - Sketch Designs:
+    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/Impact%20Switch.jpeg)
+    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/Impact%20Switch.jpeg)
+    
   - Prototyping/Wizarding:
+    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/Impact%20Switch.jpeg)
+    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/Impact%20Switch.jpeg)
+
   - Software designs:
-  - Hardware designs:
+    Here is a link to our code: https://github.com/JMortonTan/bud-cornell-tech-idd-final/tree/main/code
+    We used 
+
   - Tools:
 
 - Archive of all code, design patterns, etc. used in the final design. (As with labs, the standard should be that the documentation would allow you to recreate your project if you woke up with amnesia.)
