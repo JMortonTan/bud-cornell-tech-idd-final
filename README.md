@@ -64,17 +64,21 @@ CS5424-Final Project
     - __Features (without people-robot interaction)__:
 
       - Exploring the world with curiosity: https://youtu.be/jinE7tJCbvE
-      
-        Cats are known for their curiosity and desire to explore their surroundings. They are naturally inquisitive animals and may spend a lot of time investigating new objects, sounds, and smells.
+
+        Cats are known for their curiosity and desire to explore their surroundings. They are naturally inquisitive animals and may spend a lot of time investigating new objects, sounds, and smells. Thus, we added an exploring feature in our BUD using impact switch collision sesor.
 
       - Zoomie :https://youtu.be/Q4AVnUg-z1g
 
-        "Zoomies" is a term that is often used to describe a behavior that some cats exhibit when they suddenly start running around and playing vigorously. This behavior is also sometimes referred to as "frenetic random activity periods" (FRAPs). Zoomies can occur at any time and are often triggered by excitement or the release of pent-up energy. Some cats may have zoomies more frequently than others, and the behavior may be more common in young cats or cats that have a lot of energy. Zoomies can be a normal and healthy part of a cat's behavior, but it's important to ensure that they have a safe and appropriate place to play and run around.
+        "Zoomies" is a term that is often used to describe a behavior that some cats exhibit when they suddenly start running around and playing vigorously. This behavior is also sometimes referred to as "frenetic random activity periods" (FRAPs). Zoomies can occur at any time and are often triggered by excitement or the release of pent-up energy. Some cats may have zoomies more frequently than others, and the behavior may be more common in young cats or cats that have a lot of energy. Zoomies can be a normal and healthy part of a cat's behavior, but it's important to ensure that they have a safe and appropriate place to play and run around. Therefore, we make our BUD Zoomie sometimes. 
 
       - Sunlight Chasing: https://youtu.be/p_VLosO4qjc
 
+       Since our BUD  is designed to be cat-like but also incorporate plant-like features, it will need sunlight in order to generate the energy it needs to function. To ensure that the robot is getting enough light, we planned to use IR sensors and camera to measure the amount of light present in the environment. This will allow BUD to adjust the location and ensure that it has access to sufficient light.
+
 
       - I want water dance: https://youtu.be/mdTZZOwKOjE
+        
+        We have noticed that plants can be difficult to care for because they cannot communicate their needs to humans directly. As a result, they may not receive the watering they need in a timely manner. In order to help address this issue, we would like to include a feature in our BUD robot that uses a water level sensor to alert people when the plant needs to be watered. This will make it easier for the robot to communicate its needs and help ensure that it receives proper care. In our BUD, when water level is not sufficient, BUD wil start dancing to raise owners' attention.
 
     
 
@@ -82,19 +86,33 @@ CS5424-Final Project
 
 - __Documentation of design process__:
   - Ideation:
+    Here are some pictures of our ideations
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/idea1.png)
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/idea2.jpg)
     
   - Sketch Designs:
+    Here are some pictures of our sketch designs:
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/s1.jpg)
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/s2.jpg)
     
   - Prototyping/Wizarding:
-    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/Impact%20Switch.jpeg)
-    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/Impact%20Switch.jpeg)
+    Here is a link to our functional check off recording:
+    https://drive.google.com/file/d/1biwvo2wHCwYQ2HnlsZJgOGsaBlean6sn/view?usp=share_link
 
- 
-    
+  - Pictures of design process:
+
+
+    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/IMG_3646.JPG)
+    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/IMG_3651%202.JPG)
+    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/as.jpg)
+    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/as2.jpg)
+    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/face.jpg)
+    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/laserct2.jpg)
+    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/lasercut.jpg)
+    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/soldering.jpg)
+    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/soldering2.jpg)
+
+
 
 
 - Archive of all code, design patterns, etc. used in the final design. (As with labs, the standard should be that the documentation would allow you to recreate your project if you woke up with amnesia.)
