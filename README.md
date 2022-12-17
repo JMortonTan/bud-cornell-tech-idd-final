@@ -110,7 +110,9 @@ CS5424-Final Project
 
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/IMG_3646.JPG)
 
-    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/as.jpg)
+    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/as2.jpg)
+
+    
 
 
 
@@ -132,10 +134,10 @@ CS5424-Final Project
 
 
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/as.jpg)
-    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/as2.jpg)
+   
 
     Giving our Bud a cute face:
-    
+
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/face.jpg)
     
 
