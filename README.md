@@ -112,8 +112,7 @@ CS5424-Final Project
 
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/as2.jpg)
 
-    
-
+ 
 
 
     Soldering: Raspberry Pi 10-pin Interface:
@@ -130,8 +129,6 @@ CS5424-Final Project
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/laserct2.jpg)
 
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/lasercut.jpg)
-    
-
 
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/as.jpg)
    
