@@ -2,11 +2,13 @@
 CS5424-Final Project
 
 - __Project Plan__
+
   - __Big idea__:
 
     The "bud" is a hybrid plant-robot that turns your indoor potted plant into a house pet. It has features such as water monitoring and sunlight chasing, as well as additional pet-like characteristics. With "bud," your plant becomes a 100% companion.
 
   - __Timeline__:
+
     - Sketch Designs 11/20
     - Begin wizarding/prototyping 11/25
     - Complete laser cutting or 3D printing of assembly 11/30
@@ -16,6 +18,7 @@ CS5424-Final Project
     - Project Reflection 12/14
  
   - __Parts Needed__:
+
       | Name | Number | Pictures |
       |  --- | --- | --- |
       | ATMEGA2560-16AU | 1 |![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/d63b3f7da24ce03e0000dabeccd7ed70caecaaaf/Mega2560.jpeg)|
@@ -32,26 +35,47 @@ CS5424-Final Project
       
 
   - __Fall-back Plan__:
+
     - Plan 1: Paper model of Roosevelt island/Cornell Tech with smart features (weather, transportation, night lights etc.)
     - Plan 2: Reduce the features in our bud
 
 
 - __Functioning Project__: 
 
+    We are passionate about both cats and plants and want to make our BUD that exhibits both feline and plant-like characteristics. We would like our BUD to mimic the behaviors and characteristics of a cat, such as being independent and sometimes unpredictable, and also to exhibit plant-like qualities such as responding to light and needing watering. We hope that their robot will be able to exhibit both sets of characteristics in a way that is realistic and engaging.
 
 
-    The completed project is a robotic plant that functions as a pet and has the following features:
-      - Zommie 1: https://youtu.be/gFXpq3ll_io
-      - Zommie 2:https://youtu.be/Q4AVnUg-z1g
+    The completed BUD is a robotic plant plot that functions as a cat and has the following features (with demo videos):
+    ![this is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/features.png)
+    
+    - __Features (interactive with people)__:
+      - Stay away from Stranger: https://youtu.be/u5x-O6yp5lo
+
+        Cats are generally more reserved and cautious around strangers than dogs. They may take longer to warm up to new people and may keep their distance until they feel comfortable and safe. Thus, It's important to respect a cat's boundaries and allow them to approach and interact with new people on their own terms. Due to the above cat nature, we decided to make our BUD stay away from strangers using two IR proximity sensors in the front. When people try to approach the BUD in the front, the BUD will move backwards for a bit. 
+
+      - Butt Scratch: https://youtu.be/7XOs2DJO2yg
+
+        Many cats do enjoy having their buttocks scratched or massaged, as it can feel soothing and provide a sense of comfort and relaxation. Therefore, we added a Butt Scratch feature in our BUD using impact switches and RGB LED lights. 
+
+
+      - Recognize Owner: https://youtu.be/gSTwQe7AVko
+
+        Cats are capable of recognizing their owners and other familiar people. They use a variety of cues to identify individuals, including sight, smell, and sound. Studies have shown that cats are able to recognize their owner's face and voice, and may even be able to distinguish between different people's voices. 
+
+    - __Features (without interaction)__:
+
+      - Exploring the world with curiosity: https://youtu.be/gFXpq3ll_io
+
+        Cats are known for their curiosity and desire to explore their surroundings. They are naturally inquisitive animals and may spend a lot of time investigating new objects, sounds, and smells.
+
+      - Zoomie 2:https://youtu.be/Q4AVnUg-z1g
       - Sunlight Chasing: https://youtu.be/p_VLosO4qjc
       - I want water dance: https://youtu.be/mdTZZOwKOjE
-      - Stay away from Stranger: https://youtu.be/u5x-O6yp5lo
-      - Butt Scratch: https://youtu.be/7XOs2DJO2yg
-      - Recognize Owner: https://youtu.be/gSTwQe7AVko
+    
 
     
 
-- Documentation of design process
+- __Documentation of design process__:
   - Ideation:
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/Impact%20Switch.jpeg)
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/Impact%20Switch.jpeg)
@@ -64,15 +88,15 @@ CS5424-Final Project
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/Impact%20Switch.jpeg)
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/Impact%20Switch.jpeg)
 
-  - Software designs:
-    Here is a link to our code: https://github.com/JMortonTan/bud-cornell-tech-idd-final/tree/main/code
-    We used 
+ 
+    
 
-  - Tools:
 
 - Archive of all code, design patterns, etc. used in the final design. (As with labs, the standard should be that the documentation would allow you to recreate your project if you woke up with amnesia.)
 
-- Video of someone using your project
+  Here is a link to our code(with notes): https://github.com/JMortonTan/bud-cornell-tech-idd-final/tree/main/code
+    
+
 
 - Reflections on process (What have you learned or wish you knew at the start?)
   - Jonathan Tan:
@@ -89,12 +113,13 @@ CS5424-Final Project
 
     Here we were most able to apply the ideation processing, storyboarding, and interactions that we had reviewed in the class.  We really wish we hadn't underestimated the basic knowledge required in robotics, such as calculating voltage and amperage requirements for various kits.  Especially since in the end, we decided to purchase a kit that had a power system predesigned for the chassis.  We also utilized much of the time soldering and creating a wiring harness that allowed the Pi and Arduino to interact with one another.  Although the kit was compatible, it required significant modification in order to physically bridge the two "brains".
 
-    All in all, we really discovered that robotics is not as simple as a python script to set a motor to move a certain distance.  There are in fact several different types of motors for different types of movement as well (servo etc.).  Even two motors of the same model and type may not perform the same.
+    All in all, we really discovered that robotics is not as simple as a python script to set a motor to move a certain distance.  There are in fact several different types of motors for different types of movement as well (servo etc.). Even two motors of the same model and type may not perform the same.
 
     We wish we had known this a bit earlier, and perhaps would have directly purchased a kit without wasting time believing it was possible to do on our own.  This way we could quickly focus on developing features and interactions, which was the most important aspect of the project.
 
 
   - Peggy Pei:
+
     Building the plant-like robot "BUD" was the fascinating project I have ever built. That allowed me to explore the hardware (Ex. Raspberry Pi), software, and tools used for building interactive devices. My teammate Jon and I are both plant and cat lovers. Thus, the goal of our project was to make an interactive pet-like plant plot. To achieve our goals, we decided to use the technics we learned in classes to combine plants with robots. 
 
     One of the main challenges we faced during this project was the high energy consumption of our robot. Initially, we relied on a plug-in power source, but this limited the mobility of the robot. As a solution, we created a battery pack for the robot. However, the added weight of the battery pack made the robot kits heavy, and the six-battery pack only allowed the robot to run for 20 minutes before running out of energy. This time, we could not overcome this limitation on time. We will continue to experiment with self-sustaining energy sources in an effort to improve the energy consumption issue.
