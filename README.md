@@ -38,8 +38,17 @@ CS5424-Final Project
 
 - __Functioning Project__: 
 
+
+
     The completed project is a robotic plant that functions as a pet and has the following features:
-      - https://youtu.be/gFXpq3ll_io
+      - Zommie 1: https://youtu.be/gFXpq3ll_io
+      - Zommie 2:https://youtu.be/Q4AVnUg-z1g
+      - Sunlight Chasing: https://youtu.be/p_VLosO4qjc
+      - I want water dance: https://youtu.be/mdTZZOwKOjE
+      - Stay away from Stranger: https://youtu.be/u5x-O6yp5lo
+      - Butt Scratch: https://youtu.be/7XOs2DJO2yg
+      - Recognize Owner: https://youtu.be/gSTwQe7AVko
+
     
 
 - Documentation of design process
@@ -83,7 +92,16 @@ CS5424-Final Project
     All in all, we really discovered that robotics is not as simple as a python script to set a motor to move a certain distance.  There are in fact several different types of motors for different types of movement as well (servo etc.).  Even two motors of the same model and type may not perform the same.
 
     We wish we had known this a bit earlier, and perhaps would have directly purchased a kit without wasting time believing it was possible to do on our own.  This way we could quickly focus on developing features and interactions, which was the most important aspect of the project.
+
+
   - Peggy Pei:
+    Building the plant-like robot "BUD" was the fascinating project I have ever built. That allowed me to explore the hardware (Ex. Raspberry Pi), software, and tools used for building interactive devices. My teammate Jon and I are both plant and cat lovers. Thus, the goal of our project was to make an interactive pet-like plant plot. To achieve our goals, we decided to use the technics we learned in classes to combine plants with robots. 
+
+    One of the main challenges we faced during this project was the high energy consumption of our robot. Initially, we relied on a plug-in power source, but this limited the mobility of the robot. As a solution, we created a battery pack for the robot. However, the added weight of the battery pack made the robot kits heavy, and the six-battery pack only allowed the robot to run for 20 minutes before running out of energy. This time, we could not overcome this limitation on time. We will continue to experiment with self-sustaining energy sources in an effort to improve the energy consumption issue.
+
+    Additionally, this was my first time working with maker tools, such as soldering and wire-cutting tools. To familiarize myself with these tools, I watched numerous YouTube tutorials. I found the experience of using these tools to be very interesting and would like to continue learning more about them in the future.
+
+    Overall, the project was a success, and the plant-like robot could move and behave in a manner that was remarkably similar to a real cat. It was a great learning experience, and I feel that I gained a greater understanding of both engineering and interactive devices as a result.
 
 - Group work distribution questionnaire:
 
