@@ -72,8 +72,8 @@ CS5424-Final Project
         "Zoomies" is a term that is often used to describe a behavior that some cats exhibit when they suddenly start running around and playing vigorously. This behavior is also sometimes referred to as "frenetic random activity periods" (FRAPs). Zoomies can occur at any time and are often triggered by excitement or the release of pent-up energy. Some cats may have zoomies more frequently than others, and the behavior may be more common in young cats or cats that have a lot of energy. Zoomies can be a normal and healthy part of a cat's behavior, but it's important to ensure that they have a safe and appropriate place to play and run around. Therefore, we make our BUD Zoomie sometimes. 
 
       - Sunlight Chasing: https://youtu.be/p_VLosO4qjc
-      - 
-        Since our BUD  is designed to be cat-like but also incorporate plant-like features, it will need sunlight in order to generate the energy it needs to function. To ensure that the robot is getting enough light, we planned to use IR sensors and camera to measure the amount of light present in the environment. This will allow BUD to adjust the location and ensure that it has access to sufficient light.
+
+        Since our BUD is designed to be cat-like but also incorporate plant-like features, it will need sunlight in order to generate the energy it needs to function. To ensure that the robot is getting enough light, we planned to use IR sensors and camera to measure the amount of light present in the environment. This will allow BUD to adjust the location and ensure that it has access to sufficient light.
 
 
       - I want water dance: https://youtu.be/mdTZZOwKOjE
@@ -82,16 +82,21 @@ CS5424-Final Project
 
     
 
-    
-
 - __Documentation of design process__:
   - Ideation:
+
     Here are some pictures of our ideations
+    
+    How our Bud interact with people:
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/idea1.png)
+    Owner and stranger modes:
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/idea2.jpg)
     
   - Sketch Designs:
     Here are some pictures of our sketch designs:
+
+    We are planning to create a robotic plant pot that resembles a cat. We will use light sensors to determine the amount of sunlight the plant needs, and we will use computer vision to allow the plant to recognize its owner. We also want to draw attention to the plant when it needs watering, so we will use a water level sensor to detect when it needs watering. To make the plant more interactive, we will use IR proximity sensors, impact switches, and RGB LED lights to design some interactive features.
+
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/s1.jpg)
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/s2.jpg)
     
@@ -100,17 +105,27 @@ CS5424-Final Project
     https://drive.google.com/file/d/1biwvo2wHCwYQ2HnlsZJgOGsaBlean6sn/view?usp=share_link
 
   - Pictures of design process:
-
-
+    
+    Assemble Bud at Tata:
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/IMG_3646.JPG)
+
+
+
+    Soldering: Raspberry Pi 10-pin Interface:
+    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/soldering1.jpg)
+    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/soldering2.jpg)
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/IMG_3651%202.JPG)
+
+
+    Building the battery pack usinf laser cutting: 
+    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/laserct2.jpg)
+    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/lasercut.jpg)
+    
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/as.jpg)
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/as2.jpg)
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/face.jpg)
-    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/laserct2.jpg)
-    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/lasercut.jpg)
-    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/soldering1.jpg)
-    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/soldering2.jpg)
+    
+
 
 
 
