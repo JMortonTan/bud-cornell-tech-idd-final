@@ -83,11 +83,11 @@ CS5424-Final Project
 - __Documentation of design process__:
   - Ideation:
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/idea1.png)
-    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/Impact%20Switch.jpeg)
+    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/idea2.jpg)
     
   - Sketch Designs:
-    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/Impact%20Switch.jpeg)
-    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/Impact%20Switch.jpeg)
+    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/s1.jpg)
+    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/s2.jpg)
     
   - Prototyping/Wizarding:
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/Impact%20Switch.jpeg)
