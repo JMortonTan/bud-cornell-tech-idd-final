@@ -107,22 +107,35 @@ CS5424-Final Project
   - Pictures of design process:
     
     Assemble Bud at Tata:
+
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/IMG_3646.JPG)
+
+    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/as.jpg)
 
 
 
     Soldering: Raspberry Pi 10-pin Interface:
+
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/soldering1.jpg)
+
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/soldering2.jpg)
+
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/IMG_3651%202.JPG)
 
 
     Building the battery pack usinf laser cutting: 
+
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/laserct2.jpg)
+
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/lasercut.jpg)
     
+
+
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/as.jpg)
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/as2.jpg)
+
+    Giving our Bud a cute face:
+    
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/face.jpg)
     
 
