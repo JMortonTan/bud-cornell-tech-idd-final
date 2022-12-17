@@ -109,7 +109,7 @@ CS5424-Final Project
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/face.jpg)
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/laserct2.jpg)
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/lasercut.jpg)
-    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/soldering.jpg)
+    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/soldering1.jpg)
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/soldering2.jpg)
 
 
