@@ -47,9 +47,9 @@ CS5424-Final Project
 
     The completed BUD is a robotic plant plot that functions as a cat and has the following features (with demo videos):
     ![this is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/features.png)
-    
-    - __Features (interactive with people)__:
-      - Stay away from Stranger: https://youtu.be/u5x-O6yp5lo
+
+    - __Features (with people-robot interaction)__:
+      - Stay away from stranger (Need some personal spances): https://youtu.be/u5x-O6yp5lo
 
         Cats are generally more reserved and cautious around strangers than dogs. They may take longer to warm up to new people and may keep their distance until they feel comfortable and safe. Thus, It's important to respect a cat's boundaries and allow them to approach and interact with new people on their own terms. Due to the above cat nature, we decided to make our BUD stay away from strangers using two IR proximity sensors in the front. When people try to approach the BUD in the front, the BUD will move backwards for a bit. 
 
@@ -57,27 +57,32 @@ CS5424-Final Project
 
         Many cats do enjoy having their buttocks scratched or massaged, as it can feel soothing and provide a sense of comfort and relaxation. Therefore, we added a Butt Scratch feature in our BUD using impact switches and RGB LED lights. 
 
-
       - Recognize Owner: https://youtu.be/gSTwQe7AVko
 
-        Cats are capable of recognizing their owners and other familiar people. They use a variety of cues to identify individuals, including sight, smell, and sound. Studies have shown that cats are able to recognize their owner's face and voice, and may even be able to distinguish between different people's voices. 
+        Cats are capable of recognizing their owners and other familiar people. They use a variety of cues to identify individuals, including sight, smell, and sound. Studies have shown that cats are able to recognize their owner's face and voice, and may even be able to distinguish between different people's voices. In order to demonstrate the ability for our BUD to recognize its owner, we have decided to utilize computer vision and voice detection techniques using a camera equipped with a built-in voice detector in our design.
 
-    - __Features (without interaction)__:
+    - __Features (without people-robot interaction)__:
 
-      - Exploring the world with curiosity: https://youtu.be/gFXpq3ll_io
-
+      - Exploring the world with curiosity: https://youtu.be/jinE7tJCbvE
+      
         Cats are known for their curiosity and desire to explore their surroundings. They are naturally inquisitive animals and may spend a lot of time investigating new objects, sounds, and smells.
 
-      - Zoomie 2:https://youtu.be/Q4AVnUg-z1g
+      - Zoomie :https://youtu.be/Q4AVnUg-z1g
+
+        "Zoomies" is a term that is often used to describe a behavior that some cats exhibit when they suddenly start running around and playing vigorously. This behavior is also sometimes referred to as "frenetic random activity periods" (FRAPs). Zoomies can occur at any time and are often triggered by excitement or the release of pent-up energy. Some cats may have zoomies more frequently than others, and the behavior may be more common in young cats or cats that have a lot of energy. Zoomies can be a normal and healthy part of a cat's behavior, but it's important to ensure that they have a safe and appropriate place to play and run around.
+
       - Sunlight Chasing: https://youtu.be/p_VLosO4qjc
+
+
       - I want water dance: https://youtu.be/mdTZZOwKOjE
+
     
 
     
 
 - __Documentation of design process__:
   - Ideation:
-    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/Impact%20Switch.jpeg)
+    ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/idea1.png)
     ![This is an image](https://github.com/JMortonTan/bud-cornell-tech-idd-final/blob/main/Impact%20Switch.jpeg)
     
   - Sketch Designs:
