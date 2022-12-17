@@ -72,6 +72,7 @@ CS5424-Final Project
         "Zoomies" is a term that is often used to describe a behavior that some cats exhibit when they suddenly start running around and playing vigorously. This behavior is also sometimes referred to as "frenetic random activity periods" (FRAPs). Zoomies can occur at any time and are often triggered by excitement or the release of pent-up energy. Some cats may have zoomies more frequently than others, and the behavior may be more common in young cats or cats that have a lot of energy. Zoomies can be a normal and healthy part of a cat's behavior, but it's important to ensure that they have a safe and appropriate place to play and run around. Therefore, we make our BUD Zoomie sometimes. 
 
       - Sunlight Chasing: https://youtu.be/p_VLosO4qjc
+      - 
         Since our BUD  is designed to be cat-like but also incorporate plant-like features, it will need sunlight in order to generate the energy it needs to function. To ensure that the robot is getting enough light, we planned to use IR sensors and camera to measure the amount of light present in the environment. This will allow BUD to adjust the location and ensure that it has access to sufficient light.
 
 
